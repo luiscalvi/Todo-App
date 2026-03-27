@@ -1,4 +1,10 @@
 {
-  "todos": [],
+  "todos": [
+    {
+      "task": "gambling",
+      "completed": false,
+      "id": "_4rhaOPil9g"
+    }
+  ],
   "$schema": "./node_modules/json-server/schema.json"
 }
